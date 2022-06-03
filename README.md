@@ -27,8 +27,9 @@ I'm an engineering student from India who is passionate about writing code, solv
 
 <p align="left"><b>Connect with me:</b></p>
 <p align="left">
-<a href="https://www.linkedin.com/in/nidhi-worah-85550b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhiworah" height="30" width="40" /></a>
-<a href="https://instagram.com/nidhii.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhii.___" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nidhi-worah-85550b212/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<a href="https://www.instagram.com/nidhii.___" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+<a href="mailto:nidhiworah02@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-1223&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-1223" /> </p>
