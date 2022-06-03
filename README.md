@@ -1,13 +1,15 @@
+
 ### Hi there, this is Nidhi Worah 👋
-
-I'm an engineering student from India who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- Pronouns : she/her
-- Machine Learning Enthusiast
-- I’m currently a IT student with specialization in <b> Artificial Intelligence and Machine Learning </b> at Thakur College of Engineering & Technology
-- I’m currently learning Machine Learning and front end web development. 
-- I’m looking for a software development internship. 
-- I'm willing to collaborate as a team player to make better code
+<img align="right" alt="GIF" src="https://github.com/Nidhi-1223/Nidhi-1223/blob/main/download.jpeg" />
+I'm an engineering student from India who is passionate about writing code, solving problems, automating stuff, and building software. 
+<ul>
+<li> Pronouns : she/her</li>
+<li> Machine Learning Enthusiast </li>
+<li> I’m currently a IT student with specialization in <b> Artificial Intelligence and Machine Learning </b> at Thakur College of Engineering & Technology </li>
+<li> I’m currently learning Machine Learning and front end web development. </li>
+<li> I’m looking for a software development internship. </li>
+<li> I'm willing to collaborate as a team player to make better code </li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
