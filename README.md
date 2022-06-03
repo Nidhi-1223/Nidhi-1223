@@ -1,6 +1,6 @@
 
 ### Hi there, this is Nidhi Worah 👋
-<img align="right" alt="GIF" src="https://github.com/Nidhi-1223/Nidhi-1223/blob/main/download.jpeg" />
+<img align="right" alt="GIF" height= "200" width= "300" src="https://github.com/Nidhi-1223/Nidhi-1223/blob/main/download.jpeg" />
 I'm an engineering student from India who is passionate about writing code, solving problems, automating stuff, and building software. 
 <ul>
 <li> Pronouns : she/her</li>
