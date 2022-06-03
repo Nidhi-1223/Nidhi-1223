@@ -10,12 +10,12 @@ I'm an engineering student from India who is passionate about writing code, solv
 - I’m looking for a software development internship. 
 - I'm willing to collaborate as a team player to make better code
 
+<p align="left">Connect with me:</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/nidhi-worah-85550b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhiworah" height="30" width="40" /></a>
+<a href="https://instagram.com/nidhii.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nidhii.___" height="30" width="40" /></a>
+</p>
 
-
-### Languages and Tools
-
-<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-  <p>
-- How to reach me: [Linkedin](https://www.linkedin.com/in/nidhi-worah-85550b212/) [Gmail](nidhiworah02@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-1223&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-1223" /> </p>
 
 ⭐️ From [Nidhi](https://github.com/Nidhi-1223)
