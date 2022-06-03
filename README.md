@@ -1,6 +1,7 @@
 ### Hi there, this is Nidhi Worah 👋
 
 I'm an engineering student from India who is passionate about writing code, solving problems, automating stuff, and building software.
+
 - Pronouns : she/her
 - Machine Learning Enthusiast
 - I’m currently a IT student with specialization in <b> Artificial Intelligence and Machine Learning </b> at Thakur College of Engineering & Technology
