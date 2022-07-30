@@ -2,11 +2,11 @@
 ### Hi there, this is Nidhi Worah 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-1223&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-1223" /> </p>
 <img align="right" alt="GIF" height= "200" width= "300" src="https://github.com/Nidhi-1223/Nidhi-1223/blob/main/download.jpeg" />
-I'm an engineering student from India who is passionate about writing code, solving problems, automating stuff, and building software. 
+I'm an engineering student from India who is passionate about writing code, solving problems, and automating stuff. 
 <ul>
 <li> Pronouns : she/her</li>
 <li> Machine Learning Enthusiast </li>
-<li> I’m currently a IT student with specialization in <b> Artificial Intelligence and Machine Learning </b> at Thakur College of Engineering & Technology </li>
+<li> I’m currently an IT student with specialization in <b> Artificial Intelligence and Machine Learning </b> at Thakur College of Engineering & Technology </li>
 <li> I’m currently learning Machine Learning and front end web development. </li>
 <li> I’m looking for a software development internship. </li>
 <li> I'm willing to collaborate as a team player to make better code </li>
